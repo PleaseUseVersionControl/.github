@@ -1,2 +1,2 @@
 ## UVISION Squad is there  👋
-<img src="Animated.gif">
+<img src="ezgif.com-gif-maker.gif">
