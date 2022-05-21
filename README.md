@@ -1,2 +1,2 @@
 # PleaseUseVersionControl
-<img src="Animated.gif">
+<img src="ezgif.com-gif-maker.gif">
